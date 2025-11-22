@@ -1,2 +1,4 @@
-# brevis-zk-journey
-Daily builds and experiments with Brevis Network's ZK coprocessor on Starknet. Farming knowledge and potential airdrops!"
+# Brevis ZK Journey 🚀
+Daily grind on Brevis ZK coprocessor + Starknet. Farming code & airdrops! ✨
+## Logbook 📓
+**Day 1 (Nov 23, 2025):** Kickoff
