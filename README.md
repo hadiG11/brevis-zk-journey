@@ -7,3 +7,5 @@ Day 2 (Nov 24, 2025): Brevis ZK coprocessor grind – first proof verified on te
 
 Day 3 (Nov 25, 2025): Explored Brevis ZK coprocessor APIs; verified multi-proof setup on testnet. Streak 3/100  #BrevisZK #StarknetDay 4 (Nov 26, 2025): Integrated Brevis proofs with Starknet contracts; tested deployment. Streak 4/100  #BrevisZK #Starknet
 
+Day 5 (Nov 27, 2025): Implemented Brevis ZK proof verification in Starknet contract; tested multi-chain data access. Streak 5/100 #BrevisZK #Starknet
+
