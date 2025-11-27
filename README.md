@@ -9,3 +9,4 @@ Day 3 (Nov 25, 2025): Explored Brevis ZK coprocessor APIs; verified multi-proof 
 
 Day 5 (Nov 27, 2025): Implemented Brevis ZK proof verification in Starknet contract; tested multi-chain data access. Streak 5/100 #BrevisZK #Starknet
 
+- **Day 6 (Nov 28, 2025)**: Ek chhota Brevis app circuit banaya USDC transfer >500 USDC prove karne ke liye; ZK proof generate kiya aur Starknet testnet pe verify kiya. ZKVM integration explore kiya efficient coprocessing ke liye. Streak 6/100. Tags: #BrevisZK #Starknet
