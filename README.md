@@ -14,4 +14,8 @@ Tested witness generation using updated inputs. Measured performance differences
 SNARKs vs STARKs revise kiya, co-processors padhe – kal tasks karunga. #brevis #zkBrevis Day 15 - Dec 09, 2025: Daily Proving Grounds check-in, earned 10 Sparks, streak [count] days.
 Revised ZK circuit optimization and tested proof script – co-processor tasks tomorrow. 
 #brevis #zk
+Brevis Day 16 - Dec 10, 2025: Daily Proving Grounds check-in done, collected 10 Sparks, streak [count] days.
+Experimented with co-processor tasks, validated proof efficiency – more optimizations tomorrow. 
+#brevis #zk
+
 
