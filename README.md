@@ -15,7 +15,8 @@ SNARKs vs STARKs revise kiya, co-processors padhe – kal tasks karunga. #brevis
 Revised ZK circuit optimization and tested proof script – co-processor tasks tomorrow. 
 #brevis #zk
 Brevis Day 16 - Dec 10, 2025: Daily Proving Grounds check-in done, collected 10 Sparks, streak [count] days.
-Experimented with co-processor tasks, validated proof efficiency – more optimizations tomorrow. 
-#brevis #zk
+Experimented with co-processor tasks, validated proof efficiency – more optimizations tomorrow.
+#Brevis Day 17 - Dec 11, 2025: Completed daily check-in on Proving Grounds, earned 10 Sparks, streak [count] days. Revised Pico zkVM and zkCoprocessor use cases, will test cross-chain tasks tomorrow. #Brevis #Zk#Brevis Day 18 - Dec 12, 2025: Daily Proving Grounds check-in done, earned 10 Sparks, streak [count] days. Studied cross-chain reward submission and incentra contracts, experimented with proof generation optimizations. #Brevis #Zk#Brevis Day 19 - Dec 13, 2025: Completed another check-in on Proving Grounds, added 10 Sparks, streak [count] days. Reviewed ZK data coprocessor and ProverNet whitepaper, will validate real-time proving tasks. #Brevis #Zk
+
 
 
